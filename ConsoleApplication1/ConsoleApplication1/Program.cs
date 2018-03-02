@@ -10,11 +10,12 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
 
-            int[] numbers = new int[3];
+            int[] numbers = new int[4];
 
             numbers[0] = 286;
             numbers[1] = 287;
             numbers[2] = 288;
+            numbers[3] = 289;
 
             foreach (int k in numbers)
             {
